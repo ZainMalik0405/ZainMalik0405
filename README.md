@@ -1,99 +1,41 @@
-# Muhammad Zain Malik  
-**Software Engineer | Web Developer | Backend Enthusiast | Exploring AI & Unity**  
+# Hi, I'm Zain
 
-Welcome to my GitHub profile. I build practical, scalable, and thoughtfully engineered solutions across web development, backend systems, APIs, and emerging fields like Unity and AI. My work reflects a continuous drive to learn, create, and solve real-world problems with clean, maintainable code.
+I’m a Software Engineer based in Lahore, currently studying at FAST-NUCES (Class of 2026). I’ve had the opportunity to work on real-world web and mobile applications, taking products from early ideas to deployed systems.
 
----
+Most of my work revolves around building full-stack applications using the MERN stack, FastAPI, and Django. I’ve developed platforms for research labs as well as business use-cases, focusing on writing code that is simple, maintainable, and actually solves the problem at hand.
 
-## 🧠 About Me
-- Focused on building high-quality, production-ready web applications  
-- Strong interest in backend engineering, API security, and system design  
-- Exploring AI applications, fitness analytics, and Unity development  
-- Passionate about clean UI/UX, architecture patterns, and technical experimentation  
-- Based in Pakistan  
+I also led the technical side at ThinkFinance, a financial literacy non-profit. That involved managing a small team, reviewing code, and making sure the product was delivered properly end-to-end — not just built, but usable.
 
----
+## What I work with
 
-## 💡 Technical Expertise
+- React.js / React Native  
+- Node.js / Express  
+- MongoDB  
+- FastAPI / Django  
+- Python / JavaScript  
+- SQL  
 
-**Languages:**  
-Python, JavaScript, C, C++, C#, Java, SQL  
+## How I approach work
 
-**Web Technologies:**  
-HTML, CSS, React, FastAPI, Express.js  
+I try to keep things practical:
+- Understand the problem before jumping into code  
+- Build systems that are easy to extend later  
+- Take ownership — from requirements to deployment  
+- Keep things clean instead of over-engineered  
 
-**Databases:**  
-PostgreSQL, MySQL, MongoDB  
+## Current Work
 
-**Frameworks / Tools:**  
-JPA, Git, GitHub, JWT Auth, Middleware Architecture, WordPress, Unity  
+Associate Software Engineer @ WamoLabs  
+Working across MERN, FastAPI, and Django-based systems.
 
-**Interests:**  
-API Design, Authentication Systems, CRUD Implementation, Scalable Architecture, DevOps Basics  
+## What you'll find here
 
----
-
-## 🚀 Featured Projects
-
-### **AI-Fitness-Tracker**  
-Private | JavaScript  
-AI-powered fitness tracking and analytics platform (in progress).
-
-### **Daraz Website Clone**  
-Public | JavaScript  
-A detailed front-end functional clone of Daraz with responsive components.
-
-### **ThinkFinance Website**  
-Public | JavaScript  
-Finance-themed website with modern UI and dynamic behavior.
-
-### **Final-Year Project**  
-Private | JavaScript  
-A structured academic project with advanced feature integration.
-
-### **NEXIS**  
-Public | JavaScript  
-Frontend and logic implementations for the NEXIS ecosystem.
-
-### **NEXIS Website**  
-Public | HTML/CSS  
-Fully responsive website developed for nexis-lab.org.
-
-### **FastAPI-Middleware**  
-Public | Python  
-A secure REST API built with FastAPI featuring:  
-- Token-based authentication (JWT)  
-- Custom middleware for logging  
-- Access control  
-- Modular endpoint structure  
-
-### **FastAPI-CRUD-Operations**  
-Public | Python  
-Demonstrates core CRUD features using FastAPI, decorators, and virtual environments.
-
-### **UML Editor**  
-Public | HTML  
-An easy-to-use UML diagram editor for modeling tasks.
-
-### **Portfolio Website**  
-Public | CSS  
-Responsive, minimalistic personal portfolio design.
-
-### **Library Management System**  
-Public | Python  
-Complete library management workflow with full functionality.
+This GitHub mostly contains:
+- Real project work and experiments  
+- Backend systems and APIs  
+- Full-stack applications  
+- Things I built while learning or solving actual problems  
 
 ---
 
-## 📈 Current Focus
-- Strengthening backend engineering and security  
-- Improving deployment workflows using modern DevOps tools  
-- Exploring AI and data-driven applications  
-- Building high-quality full-stack projects  
-
----
-
-## 📫 Connect with Me
-**GitHub:** [ZainMalik0405](https://github.com/ZainMalik0405)  
-**LinkedIn:** https://www.linkedin.com/in/muhammad-zain-malik-4a5079266?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
+If something here looks interesting or useful, feel free to explore or reach out.
